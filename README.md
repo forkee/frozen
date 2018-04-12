@@ -11,13 +11,13 @@ Actively working on development and improvement, we have created a new network l
 
 Specifications
 ==========================
-Symbol: ICE
-Algorithm: C11
-Emission: 100,000,000 ICE
-Block Time: 60 seconds
-Difficulty POW: DGW3
-Difficulty POS: SeeSaw
-Masternode: 20,000 ICE
+* Symbol: ICE
+* Algorithm: C11
+* Emission: 100,000,000 ICE*
+* Block Time: 60 seconds
+* Difficulty POW: DGW3
+* Difficulty POS: SeeSaw
+* Masternode: 20,000 ICE
 
 Technology
 ==========================
